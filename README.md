@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    This is me, Ebube Ud, a <b>protocol engineer</b> at  <a href="https://status.im/" target="_blank"> <b>Status.im</b></a>. <br>
+    <b>protocol engineer</b> at  <a href="https://status.im/" target="_blank"> <b>Status.im</b></a>. <br>
   </em> 
 </p>
 
