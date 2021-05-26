@@ -13,12 +13,3 @@
  <a href = "mailto: kripsonud@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
-
-
-
-<p align="center">
-  <em>
-    <b>protocol engineer</b> at  <a href="https://status.im/" target="_blank"> <b>Status.im</b></a>. <br>
-  </em> 
-</p>
-
